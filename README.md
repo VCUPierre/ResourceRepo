@@ -1,6 +1,5 @@
 # ResourceRepo
-Helpful articles, videos, and tidbits 
-legend
+Helpful articles, videos, and tidbits for coding correctly
 
 # React
 ### Abstraction
